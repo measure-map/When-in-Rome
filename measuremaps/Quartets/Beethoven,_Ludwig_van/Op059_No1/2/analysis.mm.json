@@ -1,0 +1,6188 @@
+[
+  {
+    "count": 1,
+    "qstamp": 0.0,
+    "number": 1,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      2
+    ]
+  },
+  {
+    "count": 2,
+    "qstamp": 1.5,
+    "number": 2,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      3
+    ]
+  },
+  {
+    "count": 3,
+    "qstamp": 3.0,
+    "number": 3,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      4
+    ]
+  },
+  {
+    "count": 4,
+    "qstamp": 4.5,
+    "number": 4,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      5
+    ]
+  },
+  {
+    "count": 5,
+    "qstamp": 6.0,
+    "number": 5,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      6
+    ]
+  },
+  {
+    "count": 6,
+    "qstamp": 7.5,
+    "number": 6,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      7
+    ]
+  },
+  {
+    "count": 7,
+    "qstamp": 9.0,
+    "number": 7,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      8
+    ]
+  },
+  {
+    "count": 8,
+    "qstamp": 10.5,
+    "number": 8,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      9
+    ]
+  },
+  {
+    "count": 9,
+    "qstamp": 12.0,
+    "number": 9,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      10
+    ]
+  },
+  {
+    "count": 10,
+    "qstamp": 13.5,
+    "number": 10,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      11
+    ]
+  },
+  {
+    "count": 11,
+    "qstamp": 15.0,
+    "number": 11,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      12
+    ]
+  },
+  {
+    "count": 12,
+    "qstamp": 16.5,
+    "number": 12,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      13
+    ]
+  },
+  {
+    "count": 13,
+    "qstamp": 18.0,
+    "number": 13,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      14
+    ]
+  },
+  {
+    "count": 14,
+    "qstamp": 19.5,
+    "number": 14,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      15
+    ]
+  },
+  {
+    "count": 15,
+    "qstamp": 21.0,
+    "number": 15,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      16
+    ]
+  },
+  {
+    "count": 16,
+    "qstamp": 22.5,
+    "number": 16,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      17
+    ]
+  },
+  {
+    "count": 17,
+    "qstamp": 24.0,
+    "number": 17,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      18
+    ]
+  },
+  {
+    "count": 18,
+    "qstamp": 25.5,
+    "number": 18,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      19
+    ]
+  },
+  {
+    "count": 19,
+    "qstamp": 27.0,
+    "number": 19,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      20
+    ]
+  },
+  {
+    "count": 20,
+    "qstamp": 28.5,
+    "number": 20,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      21
+    ]
+  },
+  {
+    "count": 21,
+    "qstamp": 30.0,
+    "number": 21,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      22
+    ]
+  },
+  {
+    "count": 22,
+    "qstamp": 31.5,
+    "number": 22,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      23
+    ]
+  },
+  {
+    "count": 23,
+    "qstamp": 33.0,
+    "number": 23,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      24
+    ]
+  },
+  {
+    "count": 24,
+    "qstamp": 34.5,
+    "number": 24,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      25
+    ]
+  },
+  {
+    "count": 25,
+    "qstamp": 36.0,
+    "number": 25,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      26
+    ]
+  },
+  {
+    "count": 26,
+    "qstamp": 37.5,
+    "number": 26,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      27
+    ]
+  },
+  {
+    "count": 27,
+    "qstamp": 39.0,
+    "number": 27,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      28
+    ]
+  },
+  {
+    "count": 28,
+    "qstamp": 40.5,
+    "number": 28,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      29
+    ]
+  },
+  {
+    "count": 29,
+    "qstamp": 42.0,
+    "number": 29,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      30
+    ]
+  },
+  {
+    "count": 30,
+    "qstamp": 43.5,
+    "number": 30,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      31
+    ]
+  },
+  {
+    "count": 31,
+    "qstamp": 45.0,
+    "number": 31,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      32
+    ]
+  },
+  {
+    "count": 32,
+    "qstamp": 46.5,
+    "number": 32,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      33
+    ]
+  },
+  {
+    "count": 33,
+    "qstamp": 48.0,
+    "number": 33,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      34
+    ]
+  },
+  {
+    "count": 34,
+    "qstamp": 49.5,
+    "number": 34,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      35
+    ]
+  },
+  {
+    "count": 35,
+    "qstamp": 51.0,
+    "number": 35,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      36
+    ]
+  },
+  {
+    "count": 36,
+    "qstamp": 52.5,
+    "number": 36,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      37
+    ]
+  },
+  {
+    "count": 37,
+    "qstamp": 54.0,
+    "number": 37,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      38
+    ]
+  },
+  {
+    "count": 38,
+    "qstamp": 55.5,
+    "number": 38,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      39
+    ]
+  },
+  {
+    "count": 39,
+    "qstamp": 57.0,
+    "number": 39,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      40
+    ]
+  },
+  {
+    "count": 40,
+    "qstamp": 58.5,
+    "number": 40,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      41
+    ]
+  },
+  {
+    "count": 41,
+    "qstamp": 60.0,
+    "number": 41,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      42
+    ]
+  },
+  {
+    "count": 42,
+    "qstamp": 61.5,
+    "number": 42,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      43
+    ]
+  },
+  {
+    "count": 43,
+    "qstamp": 63.0,
+    "number": 43,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      44
+    ]
+  },
+  {
+    "count": 44,
+    "qstamp": 64.5,
+    "number": 44,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      45
+    ]
+  },
+  {
+    "count": 45,
+    "qstamp": 66.0,
+    "number": 45,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      46
+    ]
+  },
+  {
+    "count": 46,
+    "qstamp": 67.5,
+    "number": 46,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      47
+    ]
+  },
+  {
+    "count": 47,
+    "qstamp": 69.0,
+    "number": 47,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      48
+    ]
+  },
+  {
+    "count": 48,
+    "qstamp": 70.5,
+    "number": 48,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      49
+    ]
+  },
+  {
+    "count": 49,
+    "qstamp": 72.0,
+    "number": 49,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      50
+    ]
+  },
+  {
+    "count": 50,
+    "qstamp": 73.5,
+    "number": 50,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      51
+    ]
+  },
+  {
+    "count": 51,
+    "qstamp": 75.0,
+    "number": 51,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      52
+    ]
+  },
+  {
+    "count": 52,
+    "qstamp": 76.5,
+    "number": 52,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      53
+    ]
+  },
+  {
+    "count": 53,
+    "qstamp": 78.0,
+    "number": 53,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      54
+    ]
+  },
+  {
+    "count": 54,
+    "qstamp": 79.5,
+    "number": 54,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      55
+    ]
+  },
+  {
+    "count": 55,
+    "qstamp": 81.0,
+    "number": 55,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      56
+    ]
+  },
+  {
+    "count": 56,
+    "qstamp": 82.5,
+    "number": 56,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      57
+    ]
+  },
+  {
+    "count": 57,
+    "qstamp": 84.0,
+    "number": 57,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      58
+    ]
+  },
+  {
+    "count": 58,
+    "qstamp": 85.5,
+    "number": 58,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      59
+    ]
+  },
+  {
+    "count": 59,
+    "qstamp": 87.0,
+    "number": 59,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      60
+    ]
+  },
+  {
+    "count": 60,
+    "qstamp": 88.5,
+    "number": 60,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      61
+    ]
+  },
+  {
+    "count": 61,
+    "qstamp": 90.0,
+    "number": 61,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      62
+    ]
+  },
+  {
+    "count": 62,
+    "qstamp": 91.5,
+    "number": 62,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      63
+    ]
+  },
+  {
+    "count": 63,
+    "qstamp": 93.0,
+    "number": 63,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      64
+    ]
+  },
+  {
+    "count": 64,
+    "qstamp": 94.5,
+    "number": 64,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      65
+    ]
+  },
+  {
+    "count": 65,
+    "qstamp": 96.0,
+    "number": 65,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      66
+    ]
+  },
+  {
+    "count": 66,
+    "qstamp": 97.5,
+    "number": 66,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      67
+    ]
+  },
+  {
+    "count": 67,
+    "qstamp": 99.0,
+    "number": 67,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      68
+    ]
+  },
+  {
+    "count": 68,
+    "qstamp": 100.5,
+    "number": 68,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      69
+    ]
+  },
+  {
+    "count": 69,
+    "qstamp": 102.0,
+    "number": 69,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      70
+    ]
+  },
+  {
+    "count": 70,
+    "qstamp": 103.5,
+    "number": 70,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      71
+    ]
+  },
+  {
+    "count": 71,
+    "qstamp": 105.0,
+    "number": 71,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      72
+    ]
+  },
+  {
+    "count": 72,
+    "qstamp": 106.5,
+    "number": 72,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      73
+    ]
+  },
+  {
+    "count": 73,
+    "qstamp": 108.0,
+    "number": 73,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      74
+    ]
+  },
+  {
+    "count": 74,
+    "qstamp": 109.5,
+    "number": 74,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      75
+    ]
+  },
+  {
+    "count": 75,
+    "qstamp": 111.0,
+    "number": 75,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      76
+    ]
+  },
+  {
+    "count": 76,
+    "qstamp": 112.5,
+    "number": 76,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      77
+    ]
+  },
+  {
+    "count": 77,
+    "qstamp": 114.0,
+    "number": 77,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      78
+    ]
+  },
+  {
+    "count": 78,
+    "qstamp": 115.5,
+    "number": 78,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      79
+    ]
+  },
+  {
+    "count": 79,
+    "qstamp": 117.0,
+    "number": 79,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      80
+    ]
+  },
+  {
+    "count": 80,
+    "qstamp": 118.5,
+    "number": 80,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      81
+    ]
+  },
+  {
+    "count": 81,
+    "qstamp": 120.0,
+    "number": 81,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      82
+    ]
+  },
+  {
+    "count": 82,
+    "qstamp": 121.5,
+    "number": 82,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      83
+    ]
+  },
+  {
+    "count": 83,
+    "qstamp": 123.0,
+    "number": 83,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      84
+    ]
+  },
+  {
+    "count": 84,
+    "qstamp": 124.5,
+    "number": 84,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      85
+    ]
+  },
+  {
+    "count": 85,
+    "qstamp": 126.0,
+    "number": 85,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      86
+    ]
+  },
+  {
+    "count": 86,
+    "qstamp": 127.5,
+    "number": 86,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      87
+    ]
+  },
+  {
+    "count": 87,
+    "qstamp": 129.0,
+    "number": 87,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      88
+    ]
+  },
+  {
+    "count": 88,
+    "qstamp": 130.5,
+    "number": 88,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      89
+    ]
+  },
+  {
+    "count": 89,
+    "qstamp": 132.0,
+    "number": 89,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      90
+    ]
+  },
+  {
+    "count": 90,
+    "qstamp": 133.5,
+    "number": 90,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      91
+    ]
+  },
+  {
+    "count": 91,
+    "qstamp": 135.0,
+    "number": 91,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      92
+    ]
+  },
+  {
+    "count": 92,
+    "qstamp": 136.5,
+    "number": 92,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      93
+    ]
+  },
+  {
+    "count": 93,
+    "qstamp": 138.0,
+    "number": 93,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      94
+    ]
+  },
+  {
+    "count": 94,
+    "qstamp": 139.5,
+    "number": 94,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      95
+    ]
+  },
+  {
+    "count": 95,
+    "qstamp": 141.0,
+    "number": 95,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      96
+    ]
+  },
+  {
+    "count": 96,
+    "qstamp": 142.5,
+    "number": 96,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      97
+    ]
+  },
+  {
+    "count": 97,
+    "qstamp": 144.0,
+    "number": 97,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      98
+    ]
+  },
+  {
+    "count": 98,
+    "qstamp": 145.5,
+    "number": 98,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      99
+    ]
+  },
+  {
+    "count": 99,
+    "qstamp": 147.0,
+    "number": 99,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      100
+    ]
+  },
+  {
+    "count": 100,
+    "qstamp": 148.5,
+    "number": 100,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      101
+    ]
+  },
+  {
+    "count": 101,
+    "qstamp": 150.0,
+    "number": 101,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      102
+    ]
+  },
+  {
+    "count": 102,
+    "qstamp": 151.5,
+    "number": 102,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      103
+    ]
+  },
+  {
+    "count": 103,
+    "qstamp": 153.0,
+    "number": 103,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      104
+    ]
+  },
+  {
+    "count": 104,
+    "qstamp": 154.5,
+    "number": 104,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      105
+    ]
+  },
+  {
+    "count": 105,
+    "qstamp": 156.0,
+    "number": 105,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      106
+    ]
+  },
+  {
+    "count": 106,
+    "qstamp": 157.5,
+    "number": 106,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      107
+    ]
+  },
+  {
+    "count": 107,
+    "qstamp": 159.0,
+    "number": 107,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      108
+    ]
+  },
+  {
+    "count": 108,
+    "qstamp": 160.5,
+    "number": 108,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      109
+    ]
+  },
+  {
+    "count": 109,
+    "qstamp": 162.0,
+    "number": 109,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      110
+    ]
+  },
+  {
+    "count": 110,
+    "qstamp": 163.5,
+    "number": 110,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      111
+    ]
+  },
+  {
+    "count": 111,
+    "qstamp": 165.0,
+    "number": 111,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      112
+    ]
+  },
+  {
+    "count": 112,
+    "qstamp": 166.5,
+    "number": 112,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      113
+    ]
+  },
+  {
+    "count": 113,
+    "qstamp": 168.0,
+    "number": 113,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      114
+    ]
+  },
+  {
+    "count": 114,
+    "qstamp": 169.5,
+    "number": 114,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      115
+    ]
+  },
+  {
+    "count": 115,
+    "qstamp": 171.0,
+    "number": 115,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      116
+    ]
+  },
+  {
+    "count": 116,
+    "qstamp": 172.5,
+    "number": 116,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      117
+    ]
+  },
+  {
+    "count": 117,
+    "qstamp": 174.0,
+    "number": 117,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      118
+    ]
+  },
+  {
+    "count": 118,
+    "qstamp": 175.5,
+    "number": 118,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      119
+    ]
+  },
+  {
+    "count": 119,
+    "qstamp": 177.0,
+    "number": 119,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      120
+    ]
+  },
+  {
+    "count": 120,
+    "qstamp": 178.5,
+    "number": 120,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      121
+    ]
+  },
+  {
+    "count": 121,
+    "qstamp": 180.0,
+    "number": 121,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      122
+    ]
+  },
+  {
+    "count": 122,
+    "qstamp": 181.5,
+    "number": 122,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      123
+    ]
+  },
+  {
+    "count": 123,
+    "qstamp": 183.0,
+    "number": 123,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      124
+    ]
+  },
+  {
+    "count": 124,
+    "qstamp": 184.5,
+    "number": 124,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      125
+    ]
+  },
+  {
+    "count": 125,
+    "qstamp": 186.0,
+    "number": 125,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      126
+    ]
+  },
+  {
+    "count": 126,
+    "qstamp": 187.5,
+    "number": 126,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      127
+    ]
+  },
+  {
+    "count": 127,
+    "qstamp": 189.0,
+    "number": 127,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      128
+    ]
+  },
+  {
+    "count": 128,
+    "qstamp": 190.5,
+    "number": 128,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      129
+    ]
+  },
+  {
+    "count": 129,
+    "qstamp": 192.0,
+    "number": 129,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      130
+    ]
+  },
+  {
+    "count": 130,
+    "qstamp": 193.5,
+    "number": 130,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      131
+    ]
+  },
+  {
+    "count": 131,
+    "qstamp": 195.0,
+    "number": 131,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      132
+    ]
+  },
+  {
+    "count": 132,
+    "qstamp": 196.5,
+    "number": 132,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      133
+    ]
+  },
+  {
+    "count": 133,
+    "qstamp": 198.0,
+    "number": 133,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      134
+    ]
+  },
+  {
+    "count": 134,
+    "qstamp": 199.5,
+    "number": 134,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      135
+    ]
+  },
+  {
+    "count": 135,
+    "qstamp": 201.0,
+    "number": 135,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      136
+    ]
+  },
+  {
+    "count": 136,
+    "qstamp": 202.5,
+    "number": 136,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      137
+    ]
+  },
+  {
+    "count": 137,
+    "qstamp": 204.0,
+    "number": 137,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      138
+    ]
+  },
+  {
+    "count": 138,
+    "qstamp": 205.5,
+    "number": 138,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      139
+    ]
+  },
+  {
+    "count": 139,
+    "qstamp": 207.0,
+    "number": 139,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      140
+    ]
+  },
+  {
+    "count": 140,
+    "qstamp": 208.5,
+    "number": 140,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      141
+    ]
+  },
+  {
+    "count": 141,
+    "qstamp": 210.0,
+    "number": 141,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      142
+    ]
+  },
+  {
+    "count": 142,
+    "qstamp": 211.5,
+    "number": 142,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      143
+    ]
+  },
+  {
+    "count": 143,
+    "qstamp": 213.0,
+    "number": 143,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      144
+    ]
+  },
+  {
+    "count": 144,
+    "qstamp": 214.5,
+    "number": 144,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      145
+    ]
+  },
+  {
+    "count": 145,
+    "qstamp": 216.0,
+    "number": 145,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      146
+    ]
+  },
+  {
+    "count": 146,
+    "qstamp": 217.5,
+    "number": 146,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      147
+    ]
+  },
+  {
+    "count": 147,
+    "qstamp": 219.0,
+    "number": 147,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      148
+    ]
+  },
+  {
+    "count": 148,
+    "qstamp": 220.5,
+    "number": 148,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      149
+    ]
+  },
+  {
+    "count": 149,
+    "qstamp": 222.0,
+    "number": 149,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      150
+    ]
+  },
+  {
+    "count": 150,
+    "qstamp": 223.5,
+    "number": 150,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      151
+    ]
+  },
+  {
+    "count": 151,
+    "qstamp": 225.0,
+    "number": 151,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      152
+    ]
+  },
+  {
+    "count": 152,
+    "qstamp": 226.5,
+    "number": 152,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      153
+    ]
+  },
+  {
+    "count": 153,
+    "qstamp": 228.0,
+    "number": 153,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      154
+    ]
+  },
+  {
+    "count": 154,
+    "qstamp": 229.5,
+    "number": 154,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      155
+    ]
+  },
+  {
+    "count": 155,
+    "qstamp": 231.0,
+    "number": 155,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      156
+    ]
+  },
+  {
+    "count": 156,
+    "qstamp": 232.5,
+    "number": 156,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      157
+    ]
+  },
+  {
+    "count": 157,
+    "qstamp": 234.0,
+    "number": 157,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      158
+    ]
+  },
+  {
+    "count": 158,
+    "qstamp": 235.5,
+    "number": 158,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      159
+    ]
+  },
+  {
+    "count": 159,
+    "qstamp": 237.0,
+    "number": 159,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      160
+    ]
+  },
+  {
+    "count": 160,
+    "qstamp": 238.5,
+    "number": 160,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      161
+    ]
+  },
+  {
+    "count": 161,
+    "qstamp": 240.0,
+    "number": 161,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      162
+    ]
+  },
+  {
+    "count": 162,
+    "qstamp": 241.5,
+    "number": 162,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      163
+    ]
+  },
+  {
+    "count": 163,
+    "qstamp": 243.0,
+    "number": 163,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      164
+    ]
+  },
+  {
+    "count": 164,
+    "qstamp": 244.5,
+    "number": 164,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      165
+    ]
+  },
+  {
+    "count": 165,
+    "qstamp": 246.0,
+    "number": 165,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      166
+    ]
+  },
+  {
+    "count": 166,
+    "qstamp": 247.5,
+    "number": 166,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      167
+    ]
+  },
+  {
+    "count": 167,
+    "qstamp": 249.0,
+    "number": 167,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      168
+    ]
+  },
+  {
+    "count": 168,
+    "qstamp": 250.5,
+    "number": 168,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      169
+    ]
+  },
+  {
+    "count": 169,
+    "qstamp": 252.0,
+    "number": 169,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      170
+    ]
+  },
+  {
+    "count": 170,
+    "qstamp": 253.5,
+    "number": 170,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      171
+    ]
+  },
+  {
+    "count": 171,
+    "qstamp": 255.0,
+    "number": 171,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      172
+    ]
+  },
+  {
+    "count": 172,
+    "qstamp": 256.5,
+    "number": 172,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      173
+    ]
+  },
+  {
+    "count": 173,
+    "qstamp": 258.0,
+    "number": 173,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      174
+    ]
+  },
+  {
+    "count": 174,
+    "qstamp": 259.5,
+    "number": 174,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      175
+    ]
+  },
+  {
+    "count": 175,
+    "qstamp": 261.0,
+    "number": 175,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      176
+    ]
+  },
+  {
+    "count": 176,
+    "qstamp": 262.5,
+    "number": 176,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      177
+    ]
+  },
+  {
+    "count": 177,
+    "qstamp": 264.0,
+    "number": 177,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      178
+    ]
+  },
+  {
+    "count": 178,
+    "qstamp": 265.5,
+    "number": 178,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      179
+    ]
+  },
+  {
+    "count": 179,
+    "qstamp": 267.0,
+    "number": 179,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      180
+    ]
+  },
+  {
+    "count": 180,
+    "qstamp": 268.5,
+    "number": 180,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      181
+    ]
+  },
+  {
+    "count": 181,
+    "qstamp": 270.0,
+    "number": 181,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      182
+    ]
+  },
+  {
+    "count": 182,
+    "qstamp": 271.5,
+    "number": 182,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      183
+    ]
+  },
+  {
+    "count": 183,
+    "qstamp": 273.0,
+    "number": 183,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      184
+    ]
+  },
+  {
+    "count": 184,
+    "qstamp": 274.5,
+    "number": 184,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      185
+    ]
+  },
+  {
+    "count": 185,
+    "qstamp": 276.0,
+    "number": 185,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      186
+    ]
+  },
+  {
+    "count": 186,
+    "qstamp": 277.5,
+    "number": 186,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      187
+    ]
+  },
+  {
+    "count": 187,
+    "qstamp": 279.0,
+    "number": 187,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      188
+    ]
+  },
+  {
+    "count": 188,
+    "qstamp": 280.5,
+    "number": 188,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      189
+    ]
+  },
+  {
+    "count": 189,
+    "qstamp": 282.0,
+    "number": 189,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      190
+    ]
+  },
+  {
+    "count": 190,
+    "qstamp": 283.5,
+    "number": 190,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      191
+    ]
+  },
+  {
+    "count": 191,
+    "qstamp": 285.0,
+    "number": 191,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      192
+    ]
+  },
+  {
+    "count": 192,
+    "qstamp": 286.5,
+    "number": 192,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      193
+    ]
+  },
+  {
+    "count": 193,
+    "qstamp": 288.0,
+    "number": 193,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      194
+    ]
+  },
+  {
+    "count": 194,
+    "qstamp": 289.5,
+    "number": 194,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      195
+    ]
+  },
+  {
+    "count": 195,
+    "qstamp": 291.0,
+    "number": 195,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      196
+    ]
+  },
+  {
+    "count": 196,
+    "qstamp": 292.5,
+    "number": 196,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      197
+    ]
+  },
+  {
+    "count": 197,
+    "qstamp": 294.0,
+    "number": 197,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      198
+    ]
+  },
+  {
+    "count": 198,
+    "qstamp": 295.5,
+    "number": 198,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      199
+    ]
+  },
+  {
+    "count": 199,
+    "qstamp": 297.0,
+    "number": 199,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      200
+    ]
+  },
+  {
+    "count": 200,
+    "qstamp": 298.5,
+    "number": 200,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      201
+    ]
+  },
+  {
+    "count": 201,
+    "qstamp": 300.0,
+    "number": 201,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      202
+    ]
+  },
+  {
+    "count": 202,
+    "qstamp": 301.5,
+    "number": 202,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      203
+    ]
+  },
+  {
+    "count": 203,
+    "qstamp": 303.0,
+    "number": 203,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      204
+    ]
+  },
+  {
+    "count": 204,
+    "qstamp": 304.5,
+    "number": 204,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      205
+    ]
+  },
+  {
+    "count": 205,
+    "qstamp": 306.0,
+    "number": 205,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      206
+    ]
+  },
+  {
+    "count": 206,
+    "qstamp": 307.5,
+    "number": 206,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      207
+    ]
+  },
+  {
+    "count": 207,
+    "qstamp": 309.0,
+    "number": 207,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      208
+    ]
+  },
+  {
+    "count": 208,
+    "qstamp": 310.5,
+    "number": 208,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      209
+    ]
+  },
+  {
+    "count": 209,
+    "qstamp": 312.0,
+    "number": 209,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      210
+    ]
+  },
+  {
+    "count": 210,
+    "qstamp": 313.5,
+    "number": 210,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      211
+    ]
+  },
+  {
+    "count": 211,
+    "qstamp": 315.0,
+    "number": 211,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      212
+    ]
+  },
+  {
+    "count": 212,
+    "qstamp": 316.5,
+    "number": 212,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      213
+    ]
+  },
+  {
+    "count": 213,
+    "qstamp": 318.0,
+    "number": 213,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      214
+    ]
+  },
+  {
+    "count": 214,
+    "qstamp": 319.5,
+    "number": 214,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      215
+    ]
+  },
+  {
+    "count": 215,
+    "qstamp": 321.0,
+    "number": 215,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      216
+    ]
+  },
+  {
+    "count": 216,
+    "qstamp": 322.5,
+    "number": 216,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      217
+    ]
+  },
+  {
+    "count": 217,
+    "qstamp": 324.0,
+    "number": 217,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      218
+    ]
+  },
+  {
+    "count": 218,
+    "qstamp": 325.5,
+    "number": 218,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      219
+    ]
+  },
+  {
+    "count": 219,
+    "qstamp": 327.0,
+    "number": 219,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      220
+    ]
+  },
+  {
+    "count": 220,
+    "qstamp": 328.5,
+    "number": 220,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      221
+    ]
+  },
+  {
+    "count": 221,
+    "qstamp": 330.0,
+    "number": 221,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      222
+    ]
+  },
+  {
+    "count": 222,
+    "qstamp": 331.5,
+    "number": 222,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      223
+    ]
+  },
+  {
+    "count": 223,
+    "qstamp": 333.0,
+    "number": 223,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      224
+    ]
+  },
+  {
+    "count": 224,
+    "qstamp": 334.5,
+    "number": 224,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      225
+    ]
+  },
+  {
+    "count": 225,
+    "qstamp": 336.0,
+    "number": 225,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      226
+    ]
+  },
+  {
+    "count": 226,
+    "qstamp": 337.5,
+    "number": 226,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      227
+    ]
+  },
+  {
+    "count": 227,
+    "qstamp": 339.0,
+    "number": 227,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      228
+    ]
+  },
+  {
+    "count": 228,
+    "qstamp": 340.5,
+    "number": 228,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      229
+    ]
+  },
+  {
+    "count": 229,
+    "qstamp": 342.0,
+    "number": 229,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      230
+    ]
+  },
+  {
+    "count": 230,
+    "qstamp": 343.5,
+    "number": 230,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      231
+    ]
+  },
+  {
+    "count": 231,
+    "qstamp": 345.0,
+    "number": 231,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      232
+    ]
+  },
+  {
+    "count": 232,
+    "qstamp": 346.5,
+    "number": 232,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      233
+    ]
+  },
+  {
+    "count": 233,
+    "qstamp": 348.0,
+    "number": 233,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      234
+    ]
+  },
+  {
+    "count": 234,
+    "qstamp": 349.5,
+    "number": 234,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      235
+    ]
+  },
+  {
+    "count": 235,
+    "qstamp": 351.0,
+    "number": 235,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      236
+    ]
+  },
+  {
+    "count": 236,
+    "qstamp": 352.5,
+    "number": 236,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      237
+    ]
+  },
+  {
+    "count": 237,
+    "qstamp": 354.0,
+    "number": 237,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      238
+    ]
+  },
+  {
+    "count": 238,
+    "qstamp": 355.5,
+    "number": 238,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      239
+    ]
+  },
+  {
+    "count": 239,
+    "qstamp": 357.0,
+    "number": 239,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      240
+    ]
+  },
+  {
+    "count": 240,
+    "qstamp": 358.5,
+    "number": 240,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      241
+    ]
+  },
+  {
+    "count": 241,
+    "qstamp": 360.0,
+    "number": 241,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      242
+    ]
+  },
+  {
+    "count": 242,
+    "qstamp": 361.5,
+    "number": 242,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      243
+    ]
+  },
+  {
+    "count": 243,
+    "qstamp": 363.0,
+    "number": 243,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      244
+    ]
+  },
+  {
+    "count": 244,
+    "qstamp": 364.5,
+    "number": 244,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      245
+    ]
+  },
+  {
+    "count": 245,
+    "qstamp": 366.0,
+    "number": 245,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      246
+    ]
+  },
+  {
+    "count": 246,
+    "qstamp": 367.5,
+    "number": 246,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      247
+    ]
+  },
+  {
+    "count": 247,
+    "qstamp": 369.0,
+    "number": 247,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      248
+    ]
+  },
+  {
+    "count": 248,
+    "qstamp": 370.5,
+    "number": 248,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      249
+    ]
+  },
+  {
+    "count": 249,
+    "qstamp": 372.0,
+    "number": 249,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      250
+    ]
+  },
+  {
+    "count": 250,
+    "qstamp": 373.5,
+    "number": 250,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      251
+    ]
+  },
+  {
+    "count": 251,
+    "qstamp": 375.0,
+    "number": 251,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      252
+    ]
+  },
+  {
+    "count": 252,
+    "qstamp": 376.5,
+    "number": 252,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      253
+    ]
+  },
+  {
+    "count": 253,
+    "qstamp": 378.0,
+    "number": 253,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      254
+    ]
+  },
+  {
+    "count": 254,
+    "qstamp": 379.5,
+    "number": 254,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      255
+    ]
+  },
+  {
+    "count": 255,
+    "qstamp": 381.0,
+    "number": 255,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      256
+    ]
+  },
+  {
+    "count": 256,
+    "qstamp": 382.5,
+    "number": 256,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      257
+    ]
+  },
+  {
+    "count": 257,
+    "qstamp": 384.0,
+    "number": 257,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      258
+    ]
+  },
+  {
+    "count": 258,
+    "qstamp": 385.5,
+    "number": 258,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      259
+    ]
+  },
+  {
+    "count": 259,
+    "qstamp": 387.0,
+    "number": 259,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      260
+    ]
+  },
+  {
+    "count": 260,
+    "qstamp": 388.5,
+    "number": 260,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      261
+    ]
+  },
+  {
+    "count": 261,
+    "qstamp": 390.0,
+    "number": 261,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      262
+    ]
+  },
+  {
+    "count": 262,
+    "qstamp": 391.5,
+    "number": 262,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      263
+    ]
+  },
+  {
+    "count": 263,
+    "qstamp": 393.0,
+    "number": 263,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      264
+    ]
+  },
+  {
+    "count": 264,
+    "qstamp": 394.5,
+    "number": 264,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      265
+    ]
+  },
+  {
+    "count": 265,
+    "qstamp": 396.0,
+    "number": 265,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      266
+    ]
+  },
+  {
+    "count": 266,
+    "qstamp": 397.5,
+    "number": 266,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      267
+    ]
+  },
+  {
+    "count": 267,
+    "qstamp": 399.0,
+    "number": 267,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      268
+    ]
+  },
+  {
+    "count": 268,
+    "qstamp": 400.5,
+    "number": 268,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      269
+    ]
+  },
+  {
+    "count": 269,
+    "qstamp": 402.0,
+    "number": 269,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      270
+    ]
+  },
+  {
+    "count": 270,
+    "qstamp": 403.5,
+    "number": 270,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      271
+    ]
+  },
+  {
+    "count": 271,
+    "qstamp": 405.0,
+    "number": 271,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      272
+    ]
+  },
+  {
+    "count": 272,
+    "qstamp": 406.5,
+    "number": 272,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      273
+    ]
+  },
+  {
+    "count": 273,
+    "qstamp": 408.0,
+    "number": 273,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      274
+    ]
+  },
+  {
+    "count": 274,
+    "qstamp": 409.5,
+    "number": 274,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      275
+    ]
+  },
+  {
+    "count": 275,
+    "qstamp": 411.0,
+    "number": 275,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      276
+    ]
+  },
+  {
+    "count": 276,
+    "qstamp": 412.5,
+    "number": 276,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      277
+    ]
+  },
+  {
+    "count": 277,
+    "qstamp": 414.0,
+    "number": 277,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      278
+    ]
+  },
+  {
+    "count": 278,
+    "qstamp": 415.5,
+    "number": 278,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      279
+    ]
+  },
+  {
+    "count": 279,
+    "qstamp": 417.0,
+    "number": 279,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      280
+    ]
+  },
+  {
+    "count": 280,
+    "qstamp": 418.5,
+    "number": 280,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      281
+    ]
+  },
+  {
+    "count": 281,
+    "qstamp": 420.0,
+    "number": 281,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      282
+    ]
+  },
+  {
+    "count": 282,
+    "qstamp": 421.5,
+    "number": 282,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      283
+    ]
+  },
+  {
+    "count": 283,
+    "qstamp": 423.0,
+    "number": 283,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      284
+    ]
+  },
+  {
+    "count": 284,
+    "qstamp": 424.5,
+    "number": 284,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      285
+    ]
+  },
+  {
+    "count": 285,
+    "qstamp": 426.0,
+    "number": 285,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      286
+    ]
+  },
+  {
+    "count": 286,
+    "qstamp": 427.5,
+    "number": 286,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      287
+    ]
+  },
+  {
+    "count": 287,
+    "qstamp": 429.0,
+    "number": 287,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      288
+    ]
+  },
+  {
+    "count": 288,
+    "qstamp": 430.5,
+    "number": 288,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      289
+    ]
+  },
+  {
+    "count": 289,
+    "qstamp": 432.0,
+    "number": 289,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      290
+    ]
+  },
+  {
+    "count": 290,
+    "qstamp": 433.5,
+    "number": 290,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      291
+    ]
+  },
+  {
+    "count": 291,
+    "qstamp": 435.0,
+    "number": 291,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      292
+    ]
+  },
+  {
+    "count": 292,
+    "qstamp": 436.5,
+    "number": 292,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      293
+    ]
+  },
+  {
+    "count": 293,
+    "qstamp": 438.0,
+    "number": 293,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      294
+    ]
+  },
+  {
+    "count": 294,
+    "qstamp": 439.5,
+    "number": 294,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      295
+    ]
+  },
+  {
+    "count": 295,
+    "qstamp": 441.0,
+    "number": 295,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      296
+    ]
+  },
+  {
+    "count": 296,
+    "qstamp": 442.5,
+    "number": 296,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      297
+    ]
+  },
+  {
+    "count": 297,
+    "qstamp": 444.0,
+    "number": 297,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      298
+    ]
+  },
+  {
+    "count": 298,
+    "qstamp": 445.5,
+    "number": 298,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      299
+    ]
+  },
+  {
+    "count": 299,
+    "qstamp": 447.0,
+    "number": 299,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      300
+    ]
+  },
+  {
+    "count": 300,
+    "qstamp": 448.5,
+    "number": 300,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      301
+    ]
+  },
+  {
+    "count": 301,
+    "qstamp": 450.0,
+    "number": 301,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      302
+    ]
+  },
+  {
+    "count": 302,
+    "qstamp": 451.5,
+    "number": 302,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      303
+    ]
+  },
+  {
+    "count": 303,
+    "qstamp": 453.0,
+    "number": 303,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      304
+    ]
+  },
+  {
+    "count": 304,
+    "qstamp": 454.5,
+    "number": 304,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      305
+    ]
+  },
+  {
+    "count": 305,
+    "qstamp": 456.0,
+    "number": 305,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      306
+    ]
+  },
+  {
+    "count": 306,
+    "qstamp": 457.5,
+    "number": 306,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      307
+    ]
+  },
+  {
+    "count": 307,
+    "qstamp": 459.0,
+    "number": 307,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      308
+    ]
+  },
+  {
+    "count": 308,
+    "qstamp": 460.5,
+    "number": 308,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      309
+    ]
+  },
+  {
+    "count": 309,
+    "qstamp": 462.0,
+    "number": 309,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      310
+    ]
+  },
+  {
+    "count": 310,
+    "qstamp": 463.5,
+    "number": 310,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      311
+    ]
+  },
+  {
+    "count": 311,
+    "qstamp": 465.0,
+    "number": 311,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      312
+    ]
+  },
+  {
+    "count": 312,
+    "qstamp": 466.5,
+    "number": 312,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      313
+    ]
+  },
+  {
+    "count": 313,
+    "qstamp": 468.0,
+    "number": 313,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      314
+    ]
+  },
+  {
+    "count": 314,
+    "qstamp": 469.5,
+    "number": 314,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      315
+    ]
+  },
+  {
+    "count": 315,
+    "qstamp": 471.0,
+    "number": 315,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      316
+    ]
+  },
+  {
+    "count": 316,
+    "qstamp": 472.5,
+    "number": 316,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      317
+    ]
+  },
+  {
+    "count": 317,
+    "qstamp": 474.0,
+    "number": 317,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      318
+    ]
+  },
+  {
+    "count": 318,
+    "qstamp": 475.5,
+    "number": 318,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      319
+    ]
+  },
+  {
+    "count": 319,
+    "qstamp": 477.0,
+    "number": 319,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      320
+    ]
+  },
+  {
+    "count": 320,
+    "qstamp": 478.5,
+    "number": 320,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      321
+    ]
+  },
+  {
+    "count": 321,
+    "qstamp": 480.0,
+    "number": 321,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      322
+    ]
+  },
+  {
+    "count": 322,
+    "qstamp": 481.5,
+    "number": 322,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      323
+    ]
+  },
+  {
+    "count": 323,
+    "qstamp": 483.0,
+    "number": 323,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      324
+    ]
+  },
+  {
+    "count": 324,
+    "qstamp": 484.5,
+    "number": 324,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      325
+    ]
+  },
+  {
+    "count": 325,
+    "qstamp": 486.0,
+    "number": 325,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      326
+    ]
+  },
+  {
+    "count": 326,
+    "qstamp": 487.5,
+    "number": 326,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      327
+    ]
+  },
+  {
+    "count": 327,
+    "qstamp": 489.0,
+    "number": 327,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      328
+    ]
+  },
+  {
+    "count": 328,
+    "qstamp": 490.5,
+    "number": 328,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      329
+    ]
+  },
+  {
+    "count": 329,
+    "qstamp": 492.0,
+    "number": 329,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      330
+    ]
+  },
+  {
+    "count": 330,
+    "qstamp": 493.5,
+    "number": 330,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      331
+    ]
+  },
+  {
+    "count": 331,
+    "qstamp": 495.0,
+    "number": 331,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      332
+    ]
+  },
+  {
+    "count": 332,
+    "qstamp": 496.5,
+    "number": 332,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      333
+    ]
+  },
+  {
+    "count": 333,
+    "qstamp": 498.0,
+    "number": 333,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      334
+    ]
+  },
+  {
+    "count": 334,
+    "qstamp": 499.5,
+    "number": 334,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      335
+    ]
+  },
+  {
+    "count": 335,
+    "qstamp": 501.0,
+    "number": 335,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      336
+    ]
+  },
+  {
+    "count": 336,
+    "qstamp": 502.5,
+    "number": 336,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      337
+    ]
+  },
+  {
+    "count": 337,
+    "qstamp": 504.0,
+    "number": 337,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      338
+    ]
+  },
+  {
+    "count": 338,
+    "qstamp": 505.5,
+    "number": 338,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      339
+    ]
+  },
+  {
+    "count": 339,
+    "qstamp": 507.0,
+    "number": 339,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      340
+    ]
+  },
+  {
+    "count": 340,
+    "qstamp": 508.5,
+    "number": 340,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      341
+    ]
+  },
+  {
+    "count": 341,
+    "qstamp": 510.0,
+    "number": 341,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      342
+    ]
+  },
+  {
+    "count": 342,
+    "qstamp": 511.5,
+    "number": 342,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      343
+    ]
+  },
+  {
+    "count": 343,
+    "qstamp": 513.0,
+    "number": 343,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      344
+    ]
+  },
+  {
+    "count": 344,
+    "qstamp": 514.5,
+    "number": 344,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      345
+    ]
+  },
+  {
+    "count": 345,
+    "qstamp": 516.0,
+    "number": 345,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      346
+    ]
+  },
+  {
+    "count": 346,
+    "qstamp": 517.5,
+    "number": 346,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      347
+    ]
+  },
+  {
+    "count": 347,
+    "qstamp": 519.0,
+    "number": 347,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      348
+    ]
+  },
+  {
+    "count": 348,
+    "qstamp": 520.5,
+    "number": 348,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      349
+    ]
+  },
+  {
+    "count": 349,
+    "qstamp": 522.0,
+    "number": 349,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      350
+    ]
+  },
+  {
+    "count": 350,
+    "qstamp": 523.5,
+    "number": 350,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      351
+    ]
+  },
+  {
+    "count": 351,
+    "qstamp": 525.0,
+    "number": 351,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      352
+    ]
+  },
+  {
+    "count": 352,
+    "qstamp": 526.5,
+    "number": 352,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      353
+    ]
+  },
+  {
+    "count": 353,
+    "qstamp": 528.0,
+    "number": 353,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      354
+    ]
+  },
+  {
+    "count": 354,
+    "qstamp": 529.5,
+    "number": 354,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      355
+    ]
+  },
+  {
+    "count": 355,
+    "qstamp": 531.0,
+    "number": 355,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      356
+    ]
+  },
+  {
+    "count": 356,
+    "qstamp": 532.5,
+    "number": 356,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      357
+    ]
+  },
+  {
+    "count": 357,
+    "qstamp": 534.0,
+    "number": 357,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      358
+    ]
+  },
+  {
+    "count": 358,
+    "qstamp": 535.5,
+    "number": 358,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      359
+    ]
+  },
+  {
+    "count": 359,
+    "qstamp": 537.0,
+    "number": 359,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      360
+    ]
+  },
+  {
+    "count": 360,
+    "qstamp": 538.5,
+    "number": 360,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      361
+    ]
+  },
+  {
+    "count": 361,
+    "qstamp": 540.0,
+    "number": 361,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      362
+    ]
+  },
+  {
+    "count": 362,
+    "qstamp": 541.5,
+    "number": 362,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      363
+    ]
+  },
+  {
+    "count": 363,
+    "qstamp": 543.0,
+    "number": 363,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      364
+    ]
+  },
+  {
+    "count": 364,
+    "qstamp": 544.5,
+    "number": 364,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      365
+    ]
+  },
+  {
+    "count": 365,
+    "qstamp": 546.0,
+    "number": 365,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      366
+    ]
+  },
+  {
+    "count": 366,
+    "qstamp": 547.5,
+    "number": 366,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      367
+    ]
+  },
+  {
+    "count": 367,
+    "qstamp": 549.0,
+    "number": 367,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      368
+    ]
+  },
+  {
+    "count": 368,
+    "qstamp": 550.5,
+    "number": 368,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      369
+    ]
+  },
+  {
+    "count": 369,
+    "qstamp": 552.0,
+    "number": 369,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      370
+    ]
+  },
+  {
+    "count": 370,
+    "qstamp": 553.5,
+    "number": 370,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      371
+    ]
+  },
+  {
+    "count": 371,
+    "qstamp": 555.0,
+    "number": 371,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      372
+    ]
+  },
+  {
+    "count": 372,
+    "qstamp": 556.5,
+    "number": 372,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      373
+    ]
+  },
+  {
+    "count": 373,
+    "qstamp": 558.0,
+    "number": 373,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      374
+    ]
+  },
+  {
+    "count": 374,
+    "qstamp": 559.5,
+    "number": 374,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      375
+    ]
+  },
+  {
+    "count": 375,
+    "qstamp": 561.0,
+    "number": 375,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      376
+    ]
+  },
+  {
+    "count": 376,
+    "qstamp": 562.5,
+    "number": 376,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      377
+    ]
+  },
+  {
+    "count": 377,
+    "qstamp": 564.0,
+    "number": 377,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      378
+    ]
+  },
+  {
+    "count": 378,
+    "qstamp": 565.5,
+    "number": 378,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      379
+    ]
+  },
+  {
+    "count": 379,
+    "qstamp": 567.0,
+    "number": 379,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      380
+    ]
+  },
+  {
+    "count": 380,
+    "qstamp": 568.5,
+    "number": 380,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      381
+    ]
+  },
+  {
+    "count": 381,
+    "qstamp": 570.0,
+    "number": 381,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      382
+    ]
+  },
+  {
+    "count": 382,
+    "qstamp": 571.5,
+    "number": 382,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      383
+    ]
+  },
+  {
+    "count": 383,
+    "qstamp": 573.0,
+    "number": 383,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      384
+    ]
+  },
+  {
+    "count": 384,
+    "qstamp": 574.5,
+    "number": 384,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      385
+    ]
+  },
+  {
+    "count": 385,
+    "qstamp": 576.0,
+    "number": 385,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      386
+    ]
+  },
+  {
+    "count": 386,
+    "qstamp": 577.5,
+    "number": 386,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      387
+    ]
+  },
+  {
+    "count": 387,
+    "qstamp": 579.0,
+    "number": 387,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      388
+    ]
+  },
+  {
+    "count": 388,
+    "qstamp": 580.5,
+    "number": 388,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      389
+    ]
+  },
+  {
+    "count": 389,
+    "qstamp": 582.0,
+    "number": 389,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      390
+    ]
+  },
+  {
+    "count": 390,
+    "qstamp": 583.5,
+    "number": 390,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      391
+    ]
+  },
+  {
+    "count": 391,
+    "qstamp": 585.0,
+    "number": 391,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      392
+    ]
+  },
+  {
+    "count": 392,
+    "qstamp": 586.5,
+    "number": 392,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      393
+    ]
+  },
+  {
+    "count": 393,
+    "qstamp": 588.0,
+    "number": 393,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      394
+    ]
+  },
+  {
+    "count": 394,
+    "qstamp": 589.5,
+    "number": 394,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      395
+    ]
+  },
+  {
+    "count": 395,
+    "qstamp": 591.0,
+    "number": 395,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      396
+    ]
+  },
+  {
+    "count": 396,
+    "qstamp": 592.5,
+    "number": 396,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      397
+    ]
+  },
+  {
+    "count": 397,
+    "qstamp": 594.0,
+    "number": 397,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      398
+    ]
+  },
+  {
+    "count": 398,
+    "qstamp": 595.5,
+    "number": 398,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      399
+    ]
+  },
+  {
+    "count": 399,
+    "qstamp": 597.0,
+    "number": 399,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      400
+    ]
+  },
+  {
+    "count": 400,
+    "qstamp": 598.5,
+    "number": 400,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      401
+    ]
+  },
+  {
+    "count": 401,
+    "qstamp": 600.0,
+    "number": 401,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      402
+    ]
+  },
+  {
+    "count": 402,
+    "qstamp": 601.5,
+    "number": 402,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      403
+    ]
+  },
+  {
+    "count": 403,
+    "qstamp": 603.0,
+    "number": 403,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      404
+    ]
+  },
+  {
+    "count": 404,
+    "qstamp": 604.5,
+    "number": 404,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      405
+    ]
+  },
+  {
+    "count": 405,
+    "qstamp": 606.0,
+    "number": 405,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      406
+    ]
+  },
+  {
+    "count": 406,
+    "qstamp": 607.5,
+    "number": 406,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      407
+    ]
+  },
+  {
+    "count": 407,
+    "qstamp": 609.0,
+    "number": 407,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      408
+    ]
+  },
+  {
+    "count": 408,
+    "qstamp": 610.5,
+    "number": 408,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      409
+    ]
+  },
+  {
+    "count": 409,
+    "qstamp": 612.0,
+    "number": 409,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      410
+    ]
+  },
+  {
+    "count": 410,
+    "qstamp": 613.5,
+    "number": 410,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      411
+    ]
+  },
+  {
+    "count": 411,
+    "qstamp": 615.0,
+    "number": 411,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      412
+    ]
+  },
+  {
+    "count": 412,
+    "qstamp": 616.5,
+    "number": 412,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      413
+    ]
+  },
+  {
+    "count": 413,
+    "qstamp": 618.0,
+    "number": 413,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      414
+    ]
+  },
+  {
+    "count": 414,
+    "qstamp": 619.5,
+    "number": 414,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      415
+    ]
+  },
+  {
+    "count": 415,
+    "qstamp": 621.0,
+    "number": 415,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      416
+    ]
+  },
+  {
+    "count": 416,
+    "qstamp": 622.5,
+    "number": 416,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      417
+    ]
+  },
+  {
+    "count": 417,
+    "qstamp": 624.0,
+    "number": 417,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      418
+    ]
+  },
+  {
+    "count": 418,
+    "qstamp": 625.5,
+    "number": 418,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      419
+    ]
+  },
+  {
+    "count": 419,
+    "qstamp": 627.0,
+    "number": 419,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      420
+    ]
+  },
+  {
+    "count": 420,
+    "qstamp": 628.5,
+    "number": 420,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      421
+    ]
+  },
+  {
+    "count": 421,
+    "qstamp": 630.0,
+    "number": 421,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      422
+    ]
+  },
+  {
+    "count": 422,
+    "qstamp": 631.5,
+    "number": 422,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      423
+    ]
+  },
+  {
+    "count": 423,
+    "qstamp": 633.0,
+    "number": 423,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      424
+    ]
+  },
+  {
+    "count": 424,
+    "qstamp": 634.5,
+    "number": 424,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      425
+    ]
+  },
+  {
+    "count": 425,
+    "qstamp": 636.0,
+    "number": 425,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      426
+    ]
+  },
+  {
+    "count": 426,
+    "qstamp": 637.5,
+    "number": 426,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      427
+    ]
+  },
+  {
+    "count": 427,
+    "qstamp": 639.0,
+    "number": 427,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      428
+    ]
+  },
+  {
+    "count": 428,
+    "qstamp": 640.5,
+    "number": 428,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      429
+    ]
+  },
+  {
+    "count": 429,
+    "qstamp": 642.0,
+    "number": 429,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      430
+    ]
+  },
+  {
+    "count": 430,
+    "qstamp": 643.5,
+    "number": 430,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      431
+    ]
+  },
+  {
+    "count": 431,
+    "qstamp": 645.0,
+    "number": 431,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      432
+    ]
+  },
+  {
+    "count": 432,
+    "qstamp": 646.5,
+    "number": 432,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      433
+    ]
+  },
+  {
+    "count": 433,
+    "qstamp": 648.0,
+    "number": 433,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      434
+    ]
+  },
+  {
+    "count": 434,
+    "qstamp": 649.5,
+    "number": 434,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      435
+    ]
+  },
+  {
+    "count": 435,
+    "qstamp": 651.0,
+    "number": 435,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      436
+    ]
+  },
+  {
+    "count": 436,
+    "qstamp": 652.5,
+    "number": 436,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      437
+    ]
+  },
+  {
+    "count": 437,
+    "qstamp": 654.0,
+    "number": 437,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      438
+    ]
+  },
+  {
+    "count": 438,
+    "qstamp": 655.5,
+    "number": 438,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      439
+    ]
+  },
+  {
+    "count": 439,
+    "qstamp": 657.0,
+    "number": 439,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      440
+    ]
+  },
+  {
+    "count": 440,
+    "qstamp": 658.5,
+    "number": 440,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      441
+    ]
+  },
+  {
+    "count": 441,
+    "qstamp": 660.0,
+    "number": 441,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      442
+    ]
+  },
+  {
+    "count": 442,
+    "qstamp": 661.5,
+    "number": 442,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      443
+    ]
+  },
+  {
+    "count": 443,
+    "qstamp": 663.0,
+    "number": 443,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      444
+    ]
+  },
+  {
+    "count": 444,
+    "qstamp": 664.5,
+    "number": 444,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      445
+    ]
+  },
+  {
+    "count": 445,
+    "qstamp": 666.0,
+    "number": 445,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      446
+    ]
+  },
+  {
+    "count": 446,
+    "qstamp": 667.5,
+    "number": 446,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      447
+    ]
+  },
+  {
+    "count": 447,
+    "qstamp": 669.0,
+    "number": 447,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      448
+    ]
+  },
+  {
+    "count": 448,
+    "qstamp": 670.5,
+    "number": 448,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      449
+    ]
+  },
+  {
+    "count": 449,
+    "qstamp": 672.0,
+    "number": 449,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      450
+    ]
+  },
+  {
+    "count": 450,
+    "qstamp": 673.5,
+    "number": 450,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      451
+    ]
+  },
+  {
+    "count": 451,
+    "qstamp": 675.0,
+    "number": 451,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      452
+    ]
+  },
+  {
+    "count": 452,
+    "qstamp": 676.5,
+    "number": 452,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      453
+    ]
+  },
+  {
+    "count": 453,
+    "qstamp": 678.0,
+    "number": 453,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      454
+    ]
+  },
+  {
+    "count": 454,
+    "qstamp": 679.5,
+    "number": 454,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      455
+    ]
+  },
+  {
+    "count": 455,
+    "qstamp": 681.0,
+    "number": 455,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      456
+    ]
+  },
+  {
+    "count": 456,
+    "qstamp": 682.5,
+    "number": 456,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      457
+    ]
+  },
+  {
+    "count": 457,
+    "qstamp": 684.0,
+    "number": 457,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      458
+    ]
+  },
+  {
+    "count": 458,
+    "qstamp": 685.5,
+    "number": 458,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      459
+    ]
+  },
+  {
+    "count": 459,
+    "qstamp": 687.0,
+    "number": 459,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      460
+    ]
+  },
+  {
+    "count": 460,
+    "qstamp": 688.5,
+    "number": 460,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      461
+    ]
+  },
+  {
+    "count": 461,
+    "qstamp": 690.0,
+    "number": 461,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      462
+    ]
+  },
+  {
+    "count": 462,
+    "qstamp": 691.5,
+    "number": 462,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      463
+    ]
+  },
+  {
+    "count": 463,
+    "qstamp": 693.0,
+    "number": 463,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      464
+    ]
+  },
+  {
+    "count": 464,
+    "qstamp": 694.5,
+    "number": 464,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      465
+    ]
+  },
+  {
+    "count": 465,
+    "qstamp": 696.0,
+    "number": 465,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      466
+    ]
+  },
+  {
+    "count": 466,
+    "qstamp": 697.5,
+    "number": 466,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      467
+    ]
+  },
+  {
+    "count": 467,
+    "qstamp": 699.0,
+    "number": 467,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      468
+    ]
+  },
+  {
+    "count": 468,
+    "qstamp": 700.5,
+    "number": 468,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      469
+    ]
+  },
+  {
+    "count": 469,
+    "qstamp": 702.0,
+    "number": 469,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      470
+    ]
+  },
+  {
+    "count": 470,
+    "qstamp": 703.5,
+    "number": 470,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      471
+    ]
+  },
+  {
+    "count": 471,
+    "qstamp": 705.0,
+    "number": 471,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      472
+    ]
+  },
+  {
+    "count": 472,
+    "qstamp": 706.5,
+    "number": 472,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      473
+    ]
+  },
+  {
+    "count": 473,
+    "qstamp": 708.0,
+    "number": 473,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      474
+    ]
+  },
+  {
+    "count": 474,
+    "qstamp": 709.5,
+    "number": 474,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      475
+    ]
+  },
+  {
+    "count": 475,
+    "qstamp": 711.0,
+    "number": 475,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": [
+      476
+    ]
+  },
+  {
+    "count": 476,
+    "qstamp": 712.5,
+    "number": 476,
+    "time_signature": "3/8",
+    "nominal_length": 1.5,
+    "actual_length": 1.5,
+    "start_repeat": false,
+    "end_repeat": false,
+    "next": []
+  }
+]
